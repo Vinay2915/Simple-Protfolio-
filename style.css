@@ -192,6 +192,13 @@ h1 {
   min-height: 540px;
   isolation: isolate;
 }
+.portrait-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 20px;
+}
+
 
 .portrait-card {
   position: absolute;
