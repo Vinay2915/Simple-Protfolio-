@@ -219,7 +219,7 @@ h1 {
   background:
     linear-gradient(140deg, rgba(47, 125, 92, 0.4), rgba(63, 115, 184, 0.3)),
     url("./myphoto.jpg");
-  background-position: center;
+  background-position: top;
   background-size: cover;
   
 }
