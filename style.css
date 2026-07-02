@@ -217,11 +217,11 @@ h1 {
   inset: 0;
   content: "";
   background:
-    linear-gradient(140deg, rgba(47, 125, 92, 0.82), rgba(63, 115, 184, 0.62)),
-    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='700' height='900' viewBox='0 0 700 900'%3E%3Crect width='700' height='900' fill='%23f4efe4'/%3E%3Ccircle cx='350' cy='250' r='122' fill='%23171717'/%3E%3Cpath d='M136 758c33-181 128-286 214-286s181 105 214 286' fill='%23d45b45'/%3E%3Cpath d='M225 265c12-91 71-145 139-145 90 0 138 66 138 152 0 101-61 185-139 185s-151-84-138-192z' fill='%23f1c7a8'/%3E%3Cpath d='M218 244c32-92 107-132 172-105 84 34 112 112 93 190-67-8-129-38-181-91-16 33-42 57-84 72z' fill='%23171717'/%3E%3Ccircle cx='302' cy='306' r='10' fill='%23171717'/%3E%3Ccircle cx='414' cy='306' r='10' fill='%23171717'/%3E%3Cpath d='M320 382c34 28 70 28 107 0' stroke='%23171717' stroke-width='15' stroke-linecap='round' fill='none'/%3E%3C/svg%3E");
+    linear-gradient(140deg, rgba(47, 125, 92, 0.4), rgba(63, 115, 184, 0.3)),
+    url("./myphoto.jpg");
   background-position: center;
   background-size: cover;
-  filter: saturate(1.06);
+  
 }
 
 .badge {
